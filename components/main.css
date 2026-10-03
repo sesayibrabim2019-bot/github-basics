@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: teal;
+    font-size: medium;
+}
+
+.h1 {
+    background: teal;
+    text-align: center;
+    font-size: 50px;
+}
+
+.p {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
